@@ -1,0 +1,32 @@
+.pagination-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .pagination-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .pagination-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .pagination-button {
+    margin: 0 5px;
+  }
+  
+  .pagination-text {
+    margin-left: 10px;
+    font-size: 0.875rem;
+  }
+  
+  .pagination-select {
+    width: auto;
+    font-size: 0.875rem;
+  }
+  

@@ -1,0 +1,54 @@
+.signup-modal-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  .signup-error {
+    color: #e74c3c;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .signup-input {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+  }
+  
+  .signup-input:focus {
+    border-color: #3498db;
+    background-color: #fff;
+  }
+  
+  .signup-submit-btn {
+    margin-top: 10px;
+    background-color: #3498db;
+    color: white;
+    font-size: 16px;
+    padding: 12px 0;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .signup-submit-btn:hover {
+    background-color: #2980b9;
+  }
+  
+  .signup-close-btn {
+    margin-top: 10px;
+    background-color: #95a5a6;
+    color: white;
+    font-size: 16px;
+    padding: 12px 0;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .signup-close-btn:hover {
+    background-color: #7f8c8d;
+  }
+  

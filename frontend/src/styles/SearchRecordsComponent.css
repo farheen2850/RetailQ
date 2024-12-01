@@ -1,0 +1,29 @@
+.search-container {
+  display: flex;
+  flex-wrap: wrap;  
+  gap: 10px;        
+  margin-bottom: 16px;
+}
+
+.search-flex {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 10px;       
+  align-items: center;
+}
+
+.search-form-control {
+  flex: 1 1 150px; 
+}
+
+.search-button,
+.clear-button {
+  width: 120px;
+  margin-top: 10px;
+  align-self: flex-end;
+}
+
+.search-error {
+  color: red;
+  margin-top: 10px;
+}

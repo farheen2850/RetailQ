@@ -1,0 +1,5 @@
+StoreID,SKU,ProductName,Price,Date
+123,SKU123,Product A,10.5,1/1/2024
+124,SKU123,Product B,15,1/2/2024
+125,SKU123,Product C,20,1/3/2024
+126,SKU123,Product D,55,1/3/2024
